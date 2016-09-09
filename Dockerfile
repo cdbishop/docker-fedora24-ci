@@ -1,4 +1,4 @@
-FROM cdbishop89/fedora-24:latest
+FROM cdbishop89/fedora24:latest
 MAINTAINER VCA Technology <developers@vcatechnology.com>
 
 # Install useful packages
